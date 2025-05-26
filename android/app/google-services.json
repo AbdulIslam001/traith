@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325494630135",
+    "project_id": "traith-1",
+    "storage_bucket": "traith-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325494630135:android:35404814769a2eda59d5f2",
+        "android_client_info": {
+          "package_name": "com.example.traith"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YM4dgVkYjDiOIXfv8X0h6eAdr1CpJes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
